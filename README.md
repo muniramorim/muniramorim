@@ -36,5 +36,5 @@
 
 ## A jornada de mil quilômetros começa com o primeiro passo....
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=muniramorim&repo=ELLEN2121&theme=react)](https://github.com/muniramorim/muniramorim)
+  ![Snake animation](https://github.com/muniramorim/muniramorim/blob/output/github-contribution-grid-snake.svg)
 
