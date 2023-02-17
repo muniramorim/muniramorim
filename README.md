@@ -6,7 +6,7 @@
 
 
 
-###  💻-Meu Sistema Operacional
+###  💻|Meu Sistema Operacional
 
 ![ blog ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -17,7 +17,7 @@
 
 ![ juangit ](https://github-readme-stats.vercel.app/api?username=muniramorim&show_icons=true&theme=dracula)
 
-###  🔌-Habilidades e Linguagens:
+###  🔌|Habilidades e Linguagens:
 
 
 ![ 1 ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
