@@ -11,11 +11,15 @@
 ![ blog ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
+<br>
+<hr>
 
 
 
 ![ juangit ](https://github-readme-stats.vercel.app/api?username=muniramorim&show_icons=true&theme=dracula)
+
+<br>
+<hr>
 
 ###  🔌|Habilidades e Linguagens:
 
@@ -26,7 +30,8 @@
 ![ k ](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![ k ](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ k ](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+<br>
+<hr>
 <br>
 
 ## A jornada de mil quilômetros começa com o primeiro passo....
