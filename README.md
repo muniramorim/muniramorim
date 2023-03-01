@@ -1,7 +1,7 @@
 
 # Eae Munir na Área
-
-
+<br>
+<hr>
 
 
 
@@ -31,5 +31,5 @@
 
 ## A jornada de mil quilômetros começa com o primeiro passo....
 
-  ![Snake animation](https://github.com/muniramorim/muniramorim/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/muniramorim/muniramorim/blob/output/github-contribution-grid-snake.svg)
 
